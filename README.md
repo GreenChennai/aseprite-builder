@@ -32,3 +32,4 @@ accroding to [Eula](https://github.com/aseprite/aseprite/blob/main/EULA.txt) :
 we need to remove the product in `Releases` .
 
 - Aseprite v1.3.13-beta1
+-+1
